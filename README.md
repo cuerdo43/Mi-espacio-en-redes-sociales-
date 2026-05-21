@@ -1,2 +1,2 @@
 # Mi-espacio-en-redes-sociales-
-desarrollo se actividad
+desarrollo de actividad
